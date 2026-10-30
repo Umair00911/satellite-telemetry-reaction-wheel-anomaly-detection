@@ -1,4 +1,4 @@
-# Satellite Telemetry Anomaly Detection — Version 2
+# Satellite Telemetry Reaction-Wheel Anomaly Detection 
 
 Research code for binary anomaly detection in satellite telemetry, comparing custom neural architectures, synthetic anomaly augmentation, and simulated federated learning.
 
