@@ -1,0 +1,8 @@
+# Direct dependencies found in the project source; not a tested lockfile.
+numpy
+pandas
+scikit-learn
+torch
+# Optional algorithm branches (SMOTE and statistical tests):
+imbalanced-learn
+scipy

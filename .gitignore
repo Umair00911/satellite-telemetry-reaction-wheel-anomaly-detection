@@ -1,0 +1,74 @@
+# Raw datasets and common data containers
+/downloaded_files/
+/data/
+/datasets/
+*.parquet
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Model artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pkl
+*.pickle
+*.joblib
+/checkpoints/
+/models/
+/runs/
+/wandb/
+/mlruns/
+
+# Python environments, caches, and builds
+scad_env/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+build/
+dist/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Temporary files and local configuration
+.vscode/
+.idea/
+*.log
+*.tmp
+*.temp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+/tmp/
+/temp/
+
+# Credentials and private configuration
+.env
+.env.*
+!.env.example
+.aws/
+.ssh/
+.secrets/
+secrets.*
+credentials.*
+*service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# CSV benchmark reports are intentionally tracked.
