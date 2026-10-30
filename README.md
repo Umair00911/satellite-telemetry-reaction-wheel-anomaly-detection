@@ -1,6 +1,6 @@
 # Satellite Telemetry Reaction-Wheel Anomaly Detection 
 
-Research code for binary anomaly detection in satellite telemetry, comparing custom neural architectures, synthetic anomaly augmentation, and simulated federated learning.
+Research code for binary Reaction-Wheel anomaly detection in satellite telemetry, comparing custom neural architectures, synthetic anomaly augmentation, and simulated federated learning.
 
 Maintainer: [Umair00911](https://github.com/Umair00911). Intended repository: `Umair00911/satellite-telemetry-anomaly-detection`.
 
